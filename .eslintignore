@@ -1,0 +1,7 @@
+
+dist
+*.d.ts
+lint-staged.config.cjs
+.eslintrc.cjs
+postcss.config.cjs
+tailwind.config.cjs
